@@ -34,7 +34,7 @@ int receive(person data[]){
 void display(person data[]){
   	int i;
   	printf("         << F R I E N D S H I P >>      \n");
-  	printf("-----------------------------------\n");
+  	//printf("-----------------------------------\n");
 	printf("Seq.     ");
 	printf("Name    ");
 	printf("Nickname        ");
@@ -43,5 +43,5 @@ void display(person data[]){
 	for(i=0;i<5;i++){
 		printf(" %d. %-10s %-10s %-10d %-10s \n ",i+1,data[i].name,data[i].nickname,data[i].age,data[i].email);  
  	}
-	printf("-----------------------------------");
+	//printf("-----------------------------------");
 } 
