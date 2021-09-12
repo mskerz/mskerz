@@ -27,6 +27,6 @@ void main(){
 		if(a[i]=='!')
 			printf("%d ", i);
 	}
-	printf("\n total = ");
+	printf("\n total =  ");
 	
 }
