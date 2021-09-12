@@ -82,16 +82,16 @@ int receive(person data[]){
 
 void display(person data[]){
   	int i;
-  	printf("         << F R I E N D S H I P >>      \n");
-  	//printf("-----------------------------------\n");
+  	printf("              << F R I E N D S H I P >>      \n");
+  	printf("------------------------------------------------------------------\n");
 	printf("Seq.     ");
 	printf("Name    ");
 	printf("Nickname        ");
 	printf("Age    ");
 	printf("E-mail \n");
 	for(i=0;i<5;i++){
-		printf(" %d. %-10s %-10s %-10d %-10s \n ",i+1,data[i].name,data[i].nickname,data[i].age,data[i].email);  
+		printf(" %d.  %-11s  %-11s %-12d %-10s \n ",i+1,data[i].name,data[i].nickname,data[i].age,data[i].email);  
  	}
-	//printf("-----------------------------------");
+	printf("------------------------------------------------------------------\n");
 } 
 >>>>>>> f70d1f8cbe9ea5a9aa8e51d6ced945384d7bea0e
