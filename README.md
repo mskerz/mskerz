@@ -7,9 +7,9 @@
 
 ### My Skills
 
-- General Skills
+- Programming Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,ts,figma)](https://www.boomchanotai.com)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,ts,java)](https://www.boomchanotai.com)
 
 - Frontend Skills (Begin)
 
