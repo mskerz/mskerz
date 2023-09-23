@@ -19,8 +19,8 @@
 
 [![Frontend](https://skillicons.dev/icons?i=angular,flutter,bootstrap)](https://github.com/mskerz)
 
-   - Next Skill for learning
-[![Frontend](https://skillicons.dev/icons?i=react,vue,nextjs)](https://github.com/mskerz)
+    - Next Skill for learning
+  [![Frontend](https://skillicons.dev/icons?i=react,vue,nextjs)](https://github.com/mskerz)
 
 - Backend Skills (Begin)
 
