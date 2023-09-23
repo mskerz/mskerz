@@ -14,6 +14,10 @@
 - Frontend Skills (Begin)
 
 [![Frontend](https://skillicons.dev/icons?i=angular,flutter,bootstrap)](https://www.boomchanotai.com)
+
+- Backend Skills (Begin)
+
+[![Frontend](https://skillicons.dev/icons?i=slim,express,nodejs)](https://www.boomchanotai.com)
 <!---
 mskerz/mskerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
