@@ -10,6 +10,10 @@
 - General Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,ts,figma)](https://www.boomchanotai.com)
+
+- Frontend Skills (Begin)
+
+[![Frontend](https://skillicons.dev/icons?i=angular,flutter,bootstrap)](https://www.boomchanotai.com)
 <!---
 mskerz/mskerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
