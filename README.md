@@ -6,7 +6,9 @@
 
 
 ### My Skills
-
+- Tools Skills
+  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://github.com/mskerz)
+ 
 - Programming Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,ts,java)](https://github.com/mskerz)
@@ -15,6 +17,9 @@
 - Frontend Skills (Begin)
 
 [![Frontend](https://skillicons.dev/icons?i=angular,flutter,bootstrap)](https://github.com/mskerz)
+
+   - Next Skill for learning
+     [![Frontend](https://skillicons.dev/icons?i=react,vue,nextjs)](https://github.com/mskerz)
 
 - Backend Skills (Begin)
 
