@@ -9,6 +9,7 @@
 - Tools Skills
 
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://github.com/mskerz)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://github.com/mskerz)
  
 - Programming Skills
 
