@@ -26,7 +26,7 @@
 
 - Backend Skills (Begin)
 
-[![Frontend](https://skillicons.dev/icons?i=express,nodejs,laravel)](https://github.com/mskerz)
+[![Frontend](https://skillicons.dev/icons?i=express,nodejs,laravel,fastapi)](https://github.com/mskerz)
 <!---
 mskerz/mskerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
