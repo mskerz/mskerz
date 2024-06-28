@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @mskerz
 - 👀 I’m interested in Blockchain 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a senior student in computer science major at Kasetsart University Chalermphrakiat Sakon Nakhon Province Campus.
+- 💞️ I’m looking to internship or Co-operative Education  in position Frontend Dev / Backend Dev
 - 📫 How to reach me ...
+   - [![My Skills](https://skillicons.dev/icons?i=gmail)](https://github.com/mskerz) : wichasin.s@gmail 
 
 
 ### My Skills
