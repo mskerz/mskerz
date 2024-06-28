@@ -4,8 +4,8 @@
 - 💞️ I’m looking to internship or Co-operative Education  in position Frontend Dev / Backend Dev
 - 📫 How to reach me ...
    - Gmail : wichasin.s@gmail.com
-   - Linkedin : [!(https://www.linkedin.com/in/wichasin/)]()
-   - [![My Skills](https://www.linkedin.com/in/wichasin/)](https://www.linkedin.com/in/wichasin/)
+   - Linkedin : [https://www.linkedin.com/in/wichasin/]
+
 
 
 
