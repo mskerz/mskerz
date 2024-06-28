@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mskerz
-- 👀 I’m interested in Blockchain 
+- 👋 Hi, I’m Wichasin Sutthiarj 
 - 🌱 I’m currently a senior student in computer science major at Kasetsart University Chalermphrakiat Sakon Nakhon Province Campus.
 - 💞️ I’m looking to internship or Co-operative Education  in position Frontend Dev / Backend Dev
 - 📫 How to reach me ...
