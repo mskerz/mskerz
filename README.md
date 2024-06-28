@@ -30,7 +30,6 @@
 
 [![Frontend](https://skillicons.dev/icons?i=express,nodejs,laravel,fastapi)](https://github.com/mskerz)
 
-- Tools
   
 <!---
 mskerz/mskerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
