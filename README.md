@@ -22,18 +22,19 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,ts,java,python)](https://github.com/mskerz)
  
 
-- Frontend Skills (Begin)
+- Frontend Skills 
 
 [![Frontend](https://skillicons.dev/icons?i=angular,flutter,bootstrap)](https://github.com/mskerz)
 
-   - Next Learning
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,spring)](https://github.com/mskerz)
-
-- Backend Skills (Begin)
+- Backend Skills 
 
 [![Frontend](https://skillicons.dev/icons?i=express,nodejs,laravel,fastapi)](https://github.com/mskerz)
 
+
+- Next Learning
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,spring)](https://github.com/mskerz)
   
 <!---
 mskerz/mskerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
