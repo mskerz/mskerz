@@ -28,7 +28,7 @@
 
    - Next Learning
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,springboot)](https://github.com/mskerz)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,spring)](https://github.com/mskerz)
 
 - Backend Skills (Begin)
 
