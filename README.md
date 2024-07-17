@@ -36,6 +36,12 @@
 - Next Learning
 
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,spring)](https://github.com/mskerz)
+
+
+
+## Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mskerz&theme=bear)
+
   
 <!---
 mskerz/mskerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
