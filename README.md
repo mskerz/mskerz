@@ -40,7 +40,19 @@
 
 
 ## Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mskerz&theme=bear)
+<details>
+<p align="center">
+  <a href="https://github.com/mskerz">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mskerz&theme=bear" />
+  </a>
+   <a href="https://github.com/mskerz">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=mskerz&theme=highcontrast&hide_border=true"  />  
+   </a>
+  <a href="https://github.com/BossBoxing">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mskerz&theme=bear" />
+  </a>
+</p>
+</details>
 
   
 <!---
