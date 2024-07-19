@@ -25,7 +25,7 @@
 
 - Frontend Skills 
 
-[![Frontend](https://skillicons.dev/icons?i=angular,flutter,bootstrap)](https://github.com/mskerz)
+[![Frontend](https://skillicons.dev/icons?i=angular,flutter,bootstrap,react)](https://github.com/mskerz)
 
 
 - Backend Skills 
@@ -33,9 +33,9 @@
 [![Frontend](https://skillicons.dev/icons?i=express,nodejs,laravel,fastapi)](https://github.com/mskerz)
 
 
-- Next Learning
+- Next plan for learn 
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,spring)](https://github.com/mskerz)
+[![Frontend](https://skillicons.dev/icons?i=nextjs,spring)](https://github.com/mskerz)
 
 
 
