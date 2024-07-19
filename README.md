@@ -3,8 +3,8 @@
 - 💞️ I’m looking to internship or Co-operative Education  in position Frontend Dev / Backend Dev
 - 📫 How to reach me ...
    - Gmail : wichasin.s@gmail.com
-   - Linkedin : https://www.linkedin.com/in/wichasin/
-   - Facebook : Mskerz
+   - Linkedin : [![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wichasin/)
+   - Facebook : [![My Socials](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/Mskerz/)
    - Portfolio : https://react-mui-portfolio.vercel.app/
 
 
