@@ -19,7 +19,7 @@
 
 - Programming Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,ts,java,python)](https://github.com/mskerz)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,ts,dart,java,python)](https://github.com/mskerz)
  
 
 - Frontend Skills 
