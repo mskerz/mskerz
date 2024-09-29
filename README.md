@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Wichasin Sutthiarj 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wichasin
+================================================================================================================================
+
+I'm interesting internship in position at Software Engineer , Frontend Deve
+---------------
+
 - 🌱 I’m currently a senior student in computer science major at Kasetsart University Chalermphrakiat Sakon Nakhon Province Campus.
-- 💞️ I’m looking to internship or Co-operative Education  in position Frontend Dev / Backend Dev
 - 📫 How to reach me ...
    - Gmail : wichasin.s@gmail.com
    - Linkedin : https://www.linkedin.com/in/wichasin/
