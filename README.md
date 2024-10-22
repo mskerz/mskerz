@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wichasin
 ================================================================================================================================
 
-I'm interesting internship in position at Frontend Developer / Backend Developer /Fullstack Developer
----------------
+
 
 - 🌱 I’m currently a senior student in computer science major at Kasetsart University Chalermphrakiat Sakon Nakhon Province Campus.
 - 📫 How to reach me ...
