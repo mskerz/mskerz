@@ -32,7 +32,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - Backend Skills 
 
-[![Frontend](https://skillicons.dev/icons?i=express,nodejs,laravel,fastapi)](https://github.com/mskerz)
+[![Frontend](https://skillicons.dev/icons?i=express,nodejs,fastapi,laravel)](https://github.com/mskerz)
 
 
 - Next plan for learn 
