@@ -6,8 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🌱 I’m recent graduate from computer science major at Kasetsart University  
 - 📫 How to reach me ...
    - Gmail : wichasin.s@gmail.com
-   - Linkedin : https://www.linkedin.com/in/wichasin/
-   - Portfolio : https://react-mui-portfolio.vercel.app/
+   - Linkedin : https://www.linkedin.com/in/wichasin-s/
+   - Portfolio :  https://wichasin-next-portfolio.vercel.app/
 
 
 
