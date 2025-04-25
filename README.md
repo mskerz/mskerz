@@ -35,13 +35,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Backend](https://skillicons.dev/icons?i=express,nodejs,fastapi,laravel)](https://github.com/mskerz)
 
 
+- Database Skills
+
+[![Backend](https://skillicons.dev/icons?i=mongo,mysql,firebase,postgres)](https://github.com/mskerz)
+
+
 - Interest for learning plan in future
 
 [![Fullstack](https://skillicons.dev/icons?i=go,spring)](https://github.com/mskerz)
 
 - Now Learning
 
-[![Backend](https://skillicons.dev/icons?i=mongo,postgres)](https://github.com/mskerz)
+[![Backend](https://skillicons.dev/icons?i=mongo,nextjs,postgres)](https://github.com/mskerz)
 
 
 ## Github Stats
