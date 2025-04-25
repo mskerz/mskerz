@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-- 🌱 I’m currently a senior student in computer science major at Kasetsart University - Sakon Nakhon Province Campus.
+- 🌱 I’m recent graduate from computer science major at Kasetsart University  
 - 📫 How to reach me ...
    - Gmail : wichasin.s@gmail.com
    - Linkedin : https://www.linkedin.com/in/wichasin/
@@ -27,7 +27,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - Frontend Skills 
 
-[![Frontend](https://skillicons.dev/icons?i=angular,bootstrap,react,flutter)](https://github.com/mskerz)
+[![Frontend](https://skillicons.dev/icons?i=angular,bootstrap,react,next,flutter)](https://github.com/mskerz)
 
 
 - Backend Skills 
@@ -35,13 +35,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Backend](https://skillicons.dev/icons?i=express,nodejs,fastapi,laravel)](https://github.com/mskerz)
 
 
-- Interest for learn in future
+- Interest for learning plan in future
 
-[![Fullstack](https://skillicons.dev/icons?i=nextjs,spring)](https://github.com/mskerz)
+[![Fullstack](https://skillicons.dev/icons?i=go,spring)](https://github.com/mskerz)
 
 - Now Learning
 
-[![Backend](https://skillicons.dev/icons?i=mongo,firebase,redis)](https://github.com/mskerz)
+[![Backend](https://skillicons.dev/icons?i=mongo,postgres)](https://github.com/mskerz)
 
 
 ## Github Stats
