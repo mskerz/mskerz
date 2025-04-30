@@ -37,7 +37,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - Database Skills
 
-[![Backend](https://skillicons.dev/icons?i=mongo,mysql,firebase,postgres)](https://github.com/mskerz)
+[![Backend](https://skillicons.dev/icons?i=mongo,mysql,firebase)](https://github.com/mskerz)
 
 
 - Interest for learning plan in future
